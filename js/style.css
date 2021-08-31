@@ -1,0 +1,20 @@
+.map {
+    height: 150vh;
+    width: 100%;
+    padding:   10px 10px ;
+  }
+  
+  .map__hint {
+    
+  }
+  
+  .map__balloon {
+      
+  }
+  
+  .map__burger-img {
+      text-align: center;
+      height: 175px;
+      width: 300px;
+      
+  }
