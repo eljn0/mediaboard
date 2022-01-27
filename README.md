@@ -1,5 +1,8 @@
-Coded by Eljan Guluyev 2020.
-My first professional project for mediaboard.az.
-Live demo:
-http://mediaboard.42web.io/
-Also main domain : http://mediaboard.az
+# Coded by Eljan Guluyev 2020.
+
+- My first professional project for mediaboard.az.
+
+-----------------------------------------------
+# Live demo
+-----------------------------------------------
+ Also main domain : http://mediaboard.az
