@@ -1,11 +1,21 @@
 # Coded by Eljan Guluyev 2020.
 
 - My first professional project for mediaboard.az.
+-----------------------------------------------
+# What is Mediaboard?
 
+ Mediaboard is a researching portal for advertisement boards in Azerbaijan.
+ Mediaboard.az is made for Azerbaijan Ads Agency.(https://adra.gov.az/az)
+ 1st professional website made for customer.
+ 
+-----------------------------------------------------------------
+# about web app
+ Made with JSON, Yandex map api, and Bootstrap 4 for design.
+ (Api costs 100$)
+ 
+# Website URL
 -----------------------------------------------
-# Live demo
------------------------------------------------
- Also main domain : http://mediaboard.az
+ Main domain : http://mediaboard.az
  
  # Some Photos
  
